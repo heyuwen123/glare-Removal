@@ -11,6 +11,9 @@ Lens flare is a frequently observed optical anomaly distinguished by the infiltr
  The first joint de-glow and de-ghost evaluation dataset. 23 images from [BracketFlare](https://github.com/ykdai/BracketFlare) training data with undiffused glow are selected to synthetic both glow and ghost flared samples with original GTs without flares. 
  [Download](https://drive.google.com/drive/folders/1dpVe04tC_WsBQQayIIEb0HU0-SYA9j3D?usp=sharing)
 
+### Samples of the dataset
+<img title="" src="/Glare-Removal/example.png" alt="" height="300" width="840">
+
 ### OurSynDatasets test data structure
 
 ```
